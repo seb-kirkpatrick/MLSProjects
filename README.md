@@ -4,7 +4,7 @@ Welcome to the repository for my two MLS projects!
 
 ## Project 1: Predicting Expected Goals and Assists
 
-In this project, I focus on building a predictive model to estimate expected goals (xG) and expected assists (xA) for players in the MLS.
+In this project, I focus on building a predictive model to estimate expected goals contributions for players in the MLS.
 
 ### Key Features:
 - Analysis of player match data to predict xG and xA
@@ -16,4 +16,4 @@ This project aims to identify and evaluate attacking talent, with the goal of un
 
 ### Key Features:
 - Use of player event data to identify attacking attributes
-- Identification of key metrics such as shots, dribbles, key passes, and more
+- Identification of key metrics and player percentiles
